@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "ASMC",
+    "description": "",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://www.curseforge.com/minecraft/mc-mods/asmc",
+    "updateUrl": "",
+    "authorList": [
+      "AstroTibs"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
